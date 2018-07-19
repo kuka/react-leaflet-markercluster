@@ -95,7 +95,7 @@
     "webpack-dev-server": "^2.5.1"
   },
   "peerDependencies": {
-    "leaflet": "^1.3.0",
+    "leaflet": "git://github.com/kuka/leaflet.git#master",
     "leaflet.markercluster": "^1.3.0",
     "prop-types": "^15.6.2",
     "react-leaflet": "^2.0.0"
